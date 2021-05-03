@@ -1,0 +1,47 @@
+.login-container{
+    width: 100%;
+}
+
+.form-container{
+    width: 400px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-container form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    padding: 10px;
+    margin: 10px 0px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
+
+input:hover{
+    background-color: #ddd;
+    transition: 0.7s all ease;
+}
+
+.select-command{
+    display: flex;
+    justify-content: space-between;
+}
+
+.forgot-password{
+    color: tomato;
+}
+
+button{
+    background-color: none;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+}
+
+button img{
+    margin-right: 25px;
+}

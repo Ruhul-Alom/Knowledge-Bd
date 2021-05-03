@@ -1,0 +1,21 @@
+.signup-container{
+    width: 100%;
+}
+
+.form-container{
+    width: 400px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 30px;
+}
+
+.form-container form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    padding: 10px;
+    margin: 10px 0px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+}

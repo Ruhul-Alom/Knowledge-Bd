@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Introduction to Algorithms",
+	"writer":"Thomus H.Corman",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/513P8XoCAEL._SX376_BO1,204,203,200_.jpg",
+	"price":"250"
+    },
+   {
+        "name": "C concept and programming",
+	"writer":" Dennis H.Corman",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT55cfMR97kg2br6csVF5X7cXSuaYdOF5U1w&usqp=CAU",
+	"price":"350"
+     
+    },
+    {
+        "name": "The C Programming Language",
+	"writer":"Dennis M Ritche",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJy9FmQeq8Lo6mlUKywei8AfFVOExLAKMf-Q&usqp=CAU",
+	"price":"450"
+      
+    },
+    {
+        "name": "The Soul of a New Machine",
+	"writer":"Tracy Kidder",
+        "img": "https://i.pinimg.com/736x/d6/1f/31/d61f31542603de1bd813ae128b5869ee.jpg",
+	"price":"280"
+       
+    },
+   {
+        "name": "Hackers: Heroes of the Computer Revolution",
+	"writer":"Steven Levy",
+        "img": "https://farm5.staticflickr.com/4115/4775944459_0cf3376a96_z.jpg",
+	"price":"390"
+       
+    },
+    {
+        "name": "The Innovators",
+	"writer":"Walter Isaacson",
+        "img": "https://www.valuewalk.com/wp-content/uploads/2014/10/The-Innovators.jpg",
+	"price":"550"
+      
+    },
+    {
+        "name": "The Search",
+	"writer":"John Battelle",
+        "img": "https://img.bidorbuy.co.za/image/upload/user_images/506/720506_120215173908_search1.jpg",
+	"price":"1250"
+       
+    },
+  {
+        "name": "Superintelligence",
+	"writer":"Nick Bostrom",
+        "img": "https://www.kurzweilai.net/images/superintelligence.jpg",
+	"price":"650"
+        
+    },
+  {
+        "name": "Head first c",
+	"writer":"David Griffiths",
+        "img": "https://s2982.pcdn.co/wp-content/uploads/2019/07/Head-First-C-Dave-Griffiths-Dawn-Griffiths-e1564539002898.jpg.optimal.jpg",
+	"price":"750"
+    },
+   {
+        "name": "INVENT YOUR OWN GAME",
+	"writer":"F .RASHMEND",
+        "img": "https://s2982.pcdn.co/wp-content/uploads/2019/07/Invent-Your-Own-Computer-Games-With-Python-Al-Sweigart-e1564541102731.jpg.optimal.jpg",
+	"price":"1120"
+    }
+    
+]
